@@ -1,2 +1,2 @@
 # Sohoj-Sikkha
-this is our e learning website
+this is a learning website
